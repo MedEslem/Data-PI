@@ -1,0 +1,6 @@
+names:
+- Medecin
+nc: 1
+path: C:\Users\moham\Desktop\WORK\PI\Doxaria\images\Annotation
+train: images\train
+val: images\val
